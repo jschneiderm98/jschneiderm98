@@ -6,7 +6,7 @@
 - <img  alt="React" width="20px" src="https://raw.githubusercontent.com/Conecta-UnB/Conecta-UnB-Wiki/main/docs/logo.png" /> I'm currently doing this [project](https://github.com/Conecta-UnB/Conecta-UnB-Wiki)
 - <img  alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> I'm currently getting better in React/Node
 - 🇧🇷 Portuguese is my native language, and I'm very advanced in English too!
-- ⚡ Fun fact: Besides software and eletronics I love biology
+- ⚡ Planning to learn Flutter
 
 ### Connect with me:
 
