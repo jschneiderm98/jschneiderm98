@@ -36,6 +36,8 @@
 
 [![jschneiderm98's GitHub stats](https://github-readme-stats.vercel.app/api?username=jschneiderm98&hide=stars&theme=dracula)](https://github.com/jschneiderm98)
 
+[![jschneiderm98's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschneiderm98)](https://github.com/jschneiderm98/github-readme-stats)
+
 
 
 [linkedin]: https://www.linkedin.com/in/jschneiderm/r
