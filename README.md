@@ -10,7 +10,7 @@
 
 ## Interesting projects I participated
 
-[Discover-Cep](https://github.com/discover-cep) - React + NodeJS with TypeScript and test. With CI pipeline in backend and CI/CD in front-end
+[Discover-Cep](https://github.com/discover-cep) - React + NodeJS with TypeScript. With CI pipeline and tests in backend and CI/CD in front-end
 
 [Conecta-Ensina](https://github.com/fga-eps-mds/2020.1-Conecta-Ensina-Wiki) - React Native and NodeJS.
 
