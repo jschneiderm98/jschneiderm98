@@ -1,19 +1,46 @@
-### Hi there, I'm Júlio Schneider
-
+# Hi there, I'm Júlio Schneider
 
 ## I'm a undergraduate in Eletronics Engineering in UNB-FGA
 
-- <img  alt="React" width="20px" src="https://raw.githubusercontent.com/Conecta-UnB/Conecta-UnB-Wiki/main/docs/logo.png" /> I'm currently doing this [project](https://github.com/Conecta-UnB/Conecta-UnB-Wiki)
 - <img  alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> I'm currently getting better in React/Node
 - 🇧🇷 Portuguese is my native language, and I'm very advanced in English too!
-- ⚡ Planning to learn Flutter
+- ⚡ Learning Functional Programming
 
-### Connect with me:
+---
+
+## Interesting projects I participated
+
+[Discover-Cep](https://github.com/discover-cep) - React + NodeJS with TypeScript and test. With CI pipeline in backend and CI/CD in front-end
+
+[Conecta-Ensina](https://github.com/fga-eps-mds/2020.1-Conecta-Ensina-Wiki) - React Native and NodeJS.
+
+[Conecta-UNB](https://github.com/Conecta-UnB/Conecta-UnB-Wiki) - ReactJS + NodeJS app with CI/CD in backend.
+
+[Educalis](https://github.com/jschneiderm98/residual) - React web-app.
+
+[WarFGA](https://github.com/projeto-de-algoritmos/Grafos1_WarFGA), [Run-away](https://github.com/projeto-de-algoritmos/Grafos2_Run-Away), [Job-Schedule](https://github.com/projeto-de-algoritmos/Greed_Job-Schedule), [Max-Profix](https://github.com/projeto-de-algoritmos/DC_Max-Profit), [Armazem](https://github.com/projeto-de-algoritmos/PD-Armazem), [Find-Treasures](https://github.com/projeto-de-algoritmos/final_findTreasures) - Python advanced algorithms. In order - Graphs, Graphs, Greed, Divide and Conquer, Dynamic Programming and multiple of them.
+
+[NLW-Together](https://github.com/jschneiderm98/nlw-together) - Learned the basics of Elixir, and also used GraphQL.
+
+[CyberPão](https://github.com/jschneiderm98/projetoEmbarcados) - C++ computer vision with open CV
+
+---
+
+## My learning repositories
+
+[Books I've read](https://github.com/jschneiderm98/books) - Contains programming exercises and my reviews from books I've read.
+
+[Javascript TDD](https://github.com/jschneiderm98/js-tdd) - Learning test driven development with javascript.
+
+---
+
+## Connect with me:
 
 [<img  alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+---
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,10 +58,19 @@
 
 <br />
 <br />
+<br />
 
 ---
 
+<br />
+
 [![jschneiderm98's GitHub stats](https://github-readme-stats.vercel.app/api?username=jschneiderm98&hide=stars&theme=dracula)](https://github.com/jschneiderm98)
+
+
+
+---
+
+<br />
 
 [![jschneiderm98's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschneiderm98)](https://github.com/jschneiderm98/github-readme-stats)
 
