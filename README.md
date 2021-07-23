@@ -26,6 +26,8 @@
 
 ---
 
+## Lastest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Eloquent Javascript pt. 1](https://dev.to/jschneiderm98/eloquent-javascript-pt-1-4hni)
 <!-- BLOG-POST-LIST:END -->
