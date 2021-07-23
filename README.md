@@ -26,6 +26,11 @@
 
 ---
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## My learning repositories
 
 [Books I've read](https://github.com/jschneiderm98/books) - Contains programming exercises and my reviews from books I've read.
