@@ -1,6 +1,6 @@
 # Hi there, I'm Júlio Schneider
 
-## I'm a undergraduate in Eletronics Engineering in UNB-FGA
+## I'm application developer (fullstack) @  IBM and a undergraduate in Eletronics Engineering in UNB-FGA
 
 - <img  alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> I'm currently getting better in React/Node
 - 🇧🇷 Portuguese is my native language, and I'm very advanced in English too!
@@ -19,10 +19,6 @@
 [Educalis](https://github.com/jschneiderm98/residual) - React web-app.
 
 [WarFGA](https://github.com/projeto-de-algoritmos/Grafos1_WarFGA), [Run-away](https://github.com/projeto-de-algoritmos/Grafos2_Run-Away), [Job-Schedule](https://github.com/projeto-de-algoritmos/Greed_Job-Schedule), [Max-Profix](https://github.com/projeto-de-algoritmos/DC_Max-Profit), [Armazem](https://github.com/projeto-de-algoritmos/PD-Armazem), [Find-Treasures](https://github.com/projeto-de-algoritmos/final_findTreasures) - Python advanced algorithms. In order - Graphs, Graphs, Greed, Divide and Conquer, Dynamic Programming and multiple of them.
-
-[NLW-Together](https://github.com/jschneiderm98/nlw-together) - Learned the basics of Elixir, and also used GraphQL.
-
-[CyberPão](https://github.com/jschneiderm98/projetoEmbarcados) - C++ computer vision with open CV
 
 ---
 
